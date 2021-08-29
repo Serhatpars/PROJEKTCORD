@@ -4,7 +4,7 @@ github: https://github.com/Serhatpars
 Copyright • XRTH PROJEKT
 */
 
-
+@import url(https://hyblocker.github.io/pixelcord/modules/functions/macos_buttons.css);
 
 @import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
@@ -38,8 +38,6 @@ Copyright • XRTH PROJEKT
   font-family: 'Racing Sans One', cursive;
   /* background: url(https://raw.githubusercontent.com/powercord-org/powercord-backend/my-awesome-branch/src/assets/powercord.svg) center/20px no-repeat; */
 }
-
-@import url(https://hyblocker.github.io/pixelcord/modules/functions/macos_buttons.css);
 
 /* Renkli Degrade Sunucu İsmi */
 @keyframes rainbow-server-settings {
