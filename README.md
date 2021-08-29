@@ -26,3 +26,5 @@ We currently do not support customizations. If you want to support it, of course
 Discord: Serhat Pars#0001
 
 Company: XRTH PROJEKT
+
+ℹ️ Please come to our [discord server](https://dsc.gg/xrthprojekt) to follow updates and support us.
